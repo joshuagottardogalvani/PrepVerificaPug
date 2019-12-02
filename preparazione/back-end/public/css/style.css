@@ -1,0 +1,22 @@
+html, * {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-lego {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px;
+}
+
+.lego {
+    border: 2px lightgrey solid;
+    border-radius: 10px;
+    background: lightgray;
+    padding: 50px;
+}
+
+.img-lego {
+  width: 200px;
+  height: 150px;
+}
