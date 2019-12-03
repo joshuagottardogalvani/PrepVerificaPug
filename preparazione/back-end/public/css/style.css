@@ -10,10 +10,11 @@ html, * {
 }
 
 .lego {
-    border: 2px lightgrey solid;
+    border: 2px rgb(112, 112, 112) solid;
     border-radius: 10px;
     background: lightgray;
     padding: 50px;
+    box-shadow: 5px 5px 5px grey;
 }
 
 .img-lego {
